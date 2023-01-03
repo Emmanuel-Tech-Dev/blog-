@@ -16,3 +16,6 @@ This project was made with boostrap 4 template . You can download template from
 ## Conclusion
 
 All things considered -This Is A Blog Post Website With Administration Panel is subjected to future update !
+Import the blog.sql into your phpmyadmin panel and exepriment wit the project 
+ 
+you can also visit http://mremma-blog.rf.gd/index.php
